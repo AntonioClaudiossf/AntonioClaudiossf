@@ -19,11 +19,23 @@ Currently, my research focuses on **Transfer learning for robotic applications**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonioclaudiocontact/)
 
 ### GitHub Activity
+<details>
+  <summary><b>GitHub Activity</b></summary>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonioClaudiossf&show_icons=true&hide_border=true)
+  <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioClaudiossf&layout=compact&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonioClaudiossf&show_icons=true&hide_border=true&theme=github_dark)
 
+</details>
+
+<details>
+  <summary><b>Most Used Languages</b></summary>
+
+  <br>
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioClaudiossf&layout=compact&hide_border=true&theme=github_dark)
+
+</details>
 ---
 
 *Learning, transferring, and building for robotics.*
