@@ -16,7 +16,6 @@ Currently, my research focuses on **Transfer learning for robotic applications**
 ## Contact-Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonio.claudio.contact@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonioclaudiocontact/)
 
 ### GitHub Activity
